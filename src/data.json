@@ -1,0 +1,196 @@
+{
+"Product":[
+            {
+                "_id":"00",
+                "image":"/images/a02.jpg",
+                "title":"Samsung Galaxy A02",
+                "description":"Double SIM – Ecran 6.5″ HD+ – Processeur Quad Core Mediatek MT6739W 1.5 GHz, Cortex-A53 – RAM 3 Go – Mémoire 32 Go – Android 10.0, One UI 2.0 – Caméra arrière 13 MP, f/1.9, (wide), AF, 2 MP, f/2.4 (macro), Frontale 5 MP, f/2.0 – 4G – Wifi – Wi-Fi Direct – Bluetooth – Batterie 5000 mAh – Garantie 1 an ",
+                "price":369,
+                "category":"[Smartphone]"
+
+            },
+            {
+                "_id":"01",
+                "image":"/images/a02s.jpg",
+                "title":"Samsung Galaxy A02s",
+                "description":"Le Galaxy A02S embarque une dalle HD+ de 6,5 pouces et une batterie de 5000 mAh, 3 Go de RAM et 32 Go de stockage (extensible grâce à son emplacement microSD). Trois modules photo sont inclus à l’arrière du smartphone : un capteur principal de 13 Mpx et deux capteurs de 2 mégapixels pour les prises de vue macro et portrait. Pas d’USB-C mais bel et bien un port Micro USB pour ce A02S, auquel il manque également un capteur d’empreintes digitales.– Garantie 1 an ",
+                "price":425,
+                "category":"[Smartphone]"
+
+            },
+            {
+                "_id":"02",
+                "image":"/images/a21s.jpg",
+                "title":"Samsung Galaxy A21s",
+                "description":"Double SIM – Ecran Infinity-O Display 6.5″ PLS TFT LCD – Octa core (Cortex-A55 4×2,0 GHz et Cortex-A55 4×2,0 GHz) – RAM 4 Go – Mémoire 128 Go – Android 10 – Caméra: Quad 48.0 MP + 8.0 MP + 2,0 MP + 2,0 MP (Arrière) / 13 MP (Frontale) – Lecteur d’empreinte digitale – 4G – Bluetooth 4.2 – Wifi – Batterie 5000 mAh – Couleur: Noir – Garantie 1 an",
+                "price":499,
+                "category":"[Smartphone]"
+
+            },
+            {
+                "_id":"03",
+                "image":"/images/A32.jpg",
+                "title":"Samsung Galaxy A32",
+                "description":"écran 6.5 pouces Caméra arrière 64,0 MP + 12,0 MP + 5,0 MP + 5,0 MP Ram 6Go Autonomie renforcée – 5000 mAh et charge rapide – Garantie 1 an ",
+                "price":899,
+                "category":"[Smartphone]"
+
+            },
+            {
+                "_id":"04",
+                "image":"/images/a52.jpg",
+                "title":"Samsung Galaxy A52",
+                "description":"6.5 pouces Infinity-O FHD + Super AMOLED taux de rafraîchissement 90 HzCaméra Arrière 64MP + 12MP + 5MP +5MPCaméra frontale 32MP Ram 8Go4500mAh Stockage 128Go Charge rapide 25 W IP67 – Garantie 1 an ",
+                "price":1199,
+                "category":"[Smartphone]"
+
+            },
+            {
+                "_id":"05",
+                "image":"/images/a72.jpg",
+                "title":"Samsung Galaxy A72",
+                "description":"6.7 pouces Infinity-O FHD + Super AMOLED taux de rafraîchissement 90 Hz Caméra Arrière 64MP + 12MP + 8MP +5MP + 2MP Caméra frontale 32MP Ram 8Go 5000mAh Stockage 128Go Charge rapide 25 WIP67 – Garantie 1 an ",
+                "price":1599,
+                "category":["Smartphone"]
+
+            },
+            {
+                "_id":"06",
+                "image":"/images/buds live.jpg",
+                "title":"Samsung Buds Live",
+                "description":"Écouteurs Sans Fil Samsung Galaxy Buds Live – Batterie: 60 mAh (écouteurs), 472 mAh (étui de charge), Autonomie: 6 heures, Autonomie conversation 4.5 heures – Réducteur de bruit – 6 microphones pour un grand confort d’appel – assistant: samsung bixby – Connectivité: Bluetooth 5.0 – NFC – Type de connecteur: USB Type-C –  Son live et profond – Ergonomique – Dimensions écouteurs: 27,3 x 16,5 x 14,9 mm – Poids: 5.6 g – Garantie 1 an ",
+                "price":799,
+                "category":["Buds"]
+
+            },
+            {
+                "_id":"07",
+                "image":"/images/budspro.jpg",
+                "title":"Samsung Galaxy Buds Pro",
+                "description":"Excellente tenue dans l’oreille Réduction active de bruit Son immersif Autonomie longue durée – Garantie 1 an ",
+                "price":899,
+                "category":["Buds"]
+
+            },
+            {
+                "_id":"08",
+                "image":"/images/m62.jpg",
+                "title":"Samsung Galaxy M62",
+                "description":" 7000mAh Exynos 9825 6.7″ Super AMOLED Plus, 128Go Stockage, 8Go Ram, Caméra arrière 64,0 MP + 12,0 MP + 5,0 MP + 5,0 MP Caméra frontale 32,0 MP Garantie 1 an officiel ",
+                "price":1349,
+                "category":["Smartphone"]
+
+            },
+            {
+                "_id":"09",
+                "image":"/images/s21.jpg",
+                "title":"Samsung Galaxy S21",
+                "description":"Double SIM – Ecran Infinity 6.2″ FHD+ Dynamic AMOLED 2X 1300 nits, 120Hz, HDR10+ (2400 × 1080) 120 Hz – Processeur Exynos 2100 Octa Core (1x 2.9 GHz – Cortex-X1, 3x 2.8 GHz – Cortex-A78, 4x 2.2 GHz – Cortex-A55) – RAM 8 Go – Mémoire 256 Go – Android 11 – Appareils Photos: Caméra arrière: 64MP + 12MP + 12MP, Caméra avant 10 MP – Batterie 4000 mAh – Lecteur d’empreinte – Protection IP68 contre l’eau et la poussière – 5G – NFC – Bluetooth 5.2 – GPS – Wifi  Garantie 1 an ",
+                "price":3199,
+                "category":["Smartphone"]
+
+            },
+            {
+                "_id":"10",
+                "image":"/images/s21+.jpg",
+                "title":"Samsung Galaxy S21 plus",
+                "description":"Double SIM – Ecran Infinity 6.7″ FHD+ Dynamic AMOLED 2X, 1300 nits, 120Hz, HDR10+ (2400 × 1080) 120 Hz – Processeur Exynos 2100 Octa Core (1x 2.9 GHz – Cortex-X1, 3x 2.8 GHz – Cortex-A78, 4x 2.2 GHz – Cortex-A55) – RAM 8 Go – Mémoire 256 Go – Android 11 – Appareils Photos: Caméra arrière: 64MP + 12MP + 12MP, Caméra avant 10 MP – Batterie 4800 mAh – Lecteur d’empreinte – Reconnaissance faciale – Protection IP68 contre l’eau et la poussière – 5G – NFC – Bluetooth 5.2 – GPS – Wifi  Garantie 1 an",
+                "price":3699,
+                "category":["Smartphone"]
+
+            },
+            {
+                "_id":"11",
+                "image":"/images/s21yltra.jpg",
+                "title":"Samsung Galaxy S21 Ultra",
+                "description":"Double SIM – Ecran Infinity 6.8″ Quad HD+ Dynamic AMOLED 2X, 1500 nits, 120Hz, HDR10+ (2400 × 1080) 120 Hz – Processeur Exynos 2100 Octa Core (1x 2.9 GHz – Cortex-X1, 3x 2.8 GHz – Cortex-A78, 4x 2.2 GHz – Cortex-A55) – RAM 12 Go – Mémoire 256 Go – Android 11 – Appareils Photos: Caméra arrière: 108 Mpx, 12 Mpx, 10 Mpx, 10 Mpx, Caméra avant 40 MP – Batterie 5000 mAh – Lecteur d’empreinte – Reconnaissance faciale – Protection IP68 contre l’eau et la poussière – 5G – NFC – Bluetooth 5.2 – GPS – Wifi –   Garantie 1 an",
+                "price":4599,
+                "category":["Smartphone"]
+
+            },
+            {
+                "_id":"12",
+                "image":"/images/taba7.jpg",
+                "title":"Samsung Galaxy Tab A7",
+                "description":"Samsung Sale – Maintenant à prix réduit! Écran cinématique 10,4” Quadruple enceinte Batterie longue durée de 7,040mAh – Garantie 1 an ",
+                "price":899,
+                "category":["Tablette"]
+
+            },
+            {
+                "_id":"13",
+                "image":"/images/tv32.jpg",
+                "title":"TV Samsung 32p",
+                "description":"Ecran 32″ LED Résolution :1366×768 pixels Smart TV-OS Tizen HDR-Pur Color Partage d’ecran Mobile vers TV-WIFI Direct Connecteurs:2xHDMI – 1xUSB – 1Xentrée Y/Pb/Pr – 1x sortie audio digital – Ethernet – Wifi Audio : Dolby Digital Plus Tuner analogique-DVB-T/S2  Disponible en Noir Garantie: 2 ans ",
+                "price":899,
+                "category":["TV"]
+
+            },
+            {
+                "_id":"14",
+                "image":"/images/tv40.jpg",
+                "title":"TV Samsung 40p",
+                "description":"Ecran 40″ LED Résolution : 1920×1080 pixels Smart TV-OS Tizen HDR-Pur Color Partage d’ecran Mobile vers TV  Connecteurs:2xHDMI – 1xUSB – 1Xentrée Y/Pb/Pr – 1x sortie audio digital – Ethernet – Wifi Audio : Dolby Digital Plus Tuner analogique-DVB-T2cs2  Disponible en Noir  Garantie: 2 ans ",
+                "price":1399,
+                "category":["TV"]
+
+            },
+            {
+                "_id":"15",
+                "image":"/images/tv43.jpg",
+                "title":"TV Samsung 43p",
+                "description":"Ecran 43″ Crystal Processor 4k Résolution : 3840×2160 pixels Smart TV-OS Tizen HDR 10+ /PurColor/UHD Dimming Partage d’écran Mobile vers TV Connecteurs:2xHDMI – 1xUSB – 1x sortie audio digital – Ethernet – Wifi – Bluetooth Tuner analogique-DVB-T2cs2 Disponible en Titan Gray Garantie: 2 ans ",
+                "price":1789,
+                "category":["TV"]
+
+            },
+            {
+                "_id":"16",
+                "image":"/images/tv50.jpg",
+                "title":"TV Samsung 50p",
+                "description":"Ecran 50″ Crystal Processor 4k Résolution : 3840×2160 pixels Smart TV-OS Tizen  HDR 10+ /PurColor/UHD Dimming  Partage d’écran Mobile vers TV  Connecteurs:2xHDMI – 1xUSB – 1x sortie audio digital – Ethernet – Wifi – Bluetooth Audio : Dolby Digital Plus  Tuner analogique-DVB-T2cs2  Disponible en Titan Gray Garantie: 2 ans ",
+                "price":1999,
+                "category":["TV"]
+
+            },
+            {
+                "_id":"17",
+                "image":"/images/tv55.jpg",
+                "title":"TV Samsung 55p",
+                "description":"Ecran 55” Crystal Processor 4k Résolution : 3840×2160 pixels Smart TV-OS Tizen  HDR 10+ /PurColor/UHD Dimming  Partage d’écran Mobile vers TV Connecteurs:2xHDMI – 1xUSB – 1x sortie audio digital – Ethernet – Wifi – Bluetooth  Audio : Dolby Digital Plus Tuner analogique-DVB-T2cs2  Disponible en Titan Gray Garantie: 2 ans ",
+                "price":2959,
+                "category":["TV"]
+
+            },
+            {
+                "_id":"18",
+                "image":"/images/tv58.jpg",
+                "title":"TV Samsung 58p",
+                "description":"Ecran 58” Crystal Processor 4k Résolution : 3840×2160 pixels Smart TV-OS Tizen  HDR 10+ /PurColor/UHD Dimming  Partage d’écran Mobile vers TV Connecteurs:2xHDMI – 1xUSB – 1x sortie audio digital – Ethernet – Wifi – Bluetooth  Audio : Dolby Digital Plus Tuner analogique-DVB-T2cs2  Disponible en Titan Gray Garantie: 2 ans ",
+                "price":3299,
+                "category":["TV"]
+
+            },
+            {
+                "_id":"19",
+                "image":"/images/tv65.jpg",
+                "title":"TV Samsung 65p",
+                "description":"Ecran 65” Crystal Processor 4k Résolution : 3840×2160 pixels Smart TV-OS Tizen  HDR 10+ /PurColor/UHD Dimming  Partage d’écran Mobile vers TV Connecteurs:2xHDMI – 1xUSB – 1x sortie audio digital – Ethernet – Wifi – Bluetooth  Audio : Dolby Digital Plus Tuner analogique-DVB-T2cs2  Disponible en Titan Gray Garantie: 2 ans ",
+                "price":5599,
+                "category":["TV"]
+
+            },
+            {
+                "_id":"20",
+                "image":"/images/watch 3.jpg",
+                "title":"Samsung Galaxy Watch 3",
+                "description":"Précommande Galaxy Watch 3 Design affirmé avec lunette rotative Personnalisation bracelet et cadran Sport & bien-être Étanche jusqu’à 50m ",
+                "price":1799,
+                "category":["Watch"]
+
+            }
+           
+            
+       ]
+
+}
